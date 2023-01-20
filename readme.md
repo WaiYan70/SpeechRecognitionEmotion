@@ -8,4 +8,4 @@ After downloading the sample data from "kaggle", it needs to give the path with 
 
 The file structue and code are shown in below image
 
-![Alt Text] (image.PNG)
+![Alt Text](image.PNG)
